@@ -1,0 +1,125 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sairukh Enterprises</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }body {
+  background: #f7f9fc;
+  color: #222;
+  line-height: 1.6;
+}
+
+header {
+  background: #0d47a1;
+  color: white;
+  padding: 30px 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+nav {
+  background: #08306b;
+  padding: 12px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+section {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.card {
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  margin-bottom: 25px;
+}
+
+h2 {
+  color: #0d47a1;
+  margin-bottom: 15px;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+.whatsapp-btn {
+  display: inline-block;
+  margin-top: 15px;
+  background: #25D366;
+  color: white;
+  padding: 12px 22px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer {
+  background: #0d47a1;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+  </style>
+</head>
+<body>  <header>
+    <h1>SAIRUKH ENTERPRISES</h1>
+    <p>Election Point | Mobile Sale & Repair | Computer Repair</p>
+  </header>  <nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </nav>  <section id="about">
+    <div class="card">
+      <h2>About Us</h2>
+      <p>
+        Welcome to Sairukh Enterprises — your trusted center for Election Point services,
+        Mobile Sale & Repair, and Computer Repair. We provide fast, reliable, and professional
+        services with quality support and affordable pricing.
+      </p>
+    </div>
+  </section>  <section id="services">
+    <div class="card">
+      <h2>Our Services</h2>
+      <ul>
+        <li><strong>Election Point:</strong> Voter ID support, form filling, online services</li>
+        <li><strong>Mobile Sale & Repair:</strong> Mobile sales, screen repair, software fixing</li>
+        <li><strong>Computer Repair:</strong> Software installation, system repair, maintenance</li>
+      </ul>
+    </div>
+  </section>  <section id="contact">
+    <div class="card">
+      <h2>Contact Us</h2>
+      <p><strong>WhatsApp / Phone:</strong> 6003618194</p>
+      <p><strong>Address:</strong> Nayarhat Nazar, Near UCO Bank</p>
+      <p><strong>Facebook / Instagram:</strong> SAIRUKH ENTERPRISES</p><a class="whatsapp-btn" href="https://wa.me/916003618194" target="_blank">
+    Chat on WhatsApp
+  </a>
+</div>
+
+  </section>  <footer>
+    <p>© 2026 Sairukh Enterprises | All Rights Reserved</p>
+  </footer></body>
+</html>
